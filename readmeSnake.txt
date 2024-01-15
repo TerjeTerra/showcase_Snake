@@ -1,3 +1,5 @@
+OBS! Ny og forbedret versjon ligger i annen mappe (versjon 4)!!
+
 VIDEREUTVIKLET BASERT PÅ KODE FRA: https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/
 
 Per mars 2022
