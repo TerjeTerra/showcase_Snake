@@ -1,5 +1,5 @@
 '''
-SNAKE GAME v. 4.0
+SNAKE GAME v. 4.01
 Further developed based on an idea and code from:
 https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/ (approx. 160 lines)
 Attached as 'originalSnakeGeeks.py'
